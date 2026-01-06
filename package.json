@@ -1,5 +1,5 @@
 {
-  "name": "copy-of-crypto-cosmos",
+  "name": "copy-of-crypto-cosmos-final-release-2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,7 +15,9 @@
     "@react-three/fiber": "^9.4.2",
     "@react-three/drei": "^10.7.7",
     "three": "^0.182.0",
-    "@react-three/postprocessing": "^3.0.4"
+    "vite": "^7.3.0",
+    "@vitejs/plugin-react": "^5.1.2",
+    "path": "^0.12.7"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
